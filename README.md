@@ -61,7 +61,7 @@ Bu veri seti, meme kanseri teşhisi ile ilgilenen araştırmacılar, veri bilimi
 
 Bu veri seti, meme kanseri teşhisiyle ilgili araştırmalar için UCI Machine Learning Repository'de https://archive.ics.uci.edu/ml/index.php bulunan "Breast Cancer" veri setinin bir parçasıdır.
 
-## Lisans:
+## Lisans
 
 Bu veri seti, UCI Machine Learning Repository'nin lisans koşullarına tabidir. Aşağıda verilen lisans metnini inceleyiniz:
 
@@ -79,7 +79,7 @@ Lisansın tam metnine ve detaylarına UCI Machine Learning Repository web sitesi
 - Bu veri setini kullanırken veri gizliliğine dikkat etmelisiniz ve kişisel bilgileri ifşa etmekten kaçınmalısınız.
 - Veri setini kullanırken etik kurallara uymalı ve araştırma etiğine saygı göstermelisiniz.
 
-## Kaynakça:
+## Kaynakça
 
 - **UCI Machine Learning Repository:** https://archive.ics.uci.edu/ml/index.php
 
